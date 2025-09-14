@@ -20,6 +20,9 @@ _Get started using GitHub in less than an hour._
   Link to docs.github.com for further explanations.
   Encourage users to open new tabs for steps!
 -->
+Hello, World!
+
+This is a demo project for learning how to use Git.
 
 ## Step 1: Create a branch
 
