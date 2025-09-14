@@ -21,6 +21,10 @@ _Get started using GitHub in less than an hour._
   Encourage users to open new tabs for steps!
 -->
 
+Hello, World!
+
+This is a demo project for learning how to use Git.
+
 ## Step 1: Create a branch
 
 _Welcome to "Introduction to GitHub"! :wave:_
